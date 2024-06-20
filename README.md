@@ -3,7 +3,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=f5a9b8&height=300&section=header&text=I%20mainly%20use%20Golang,%20C,%20Asm,%20Kotlin%20and%20Python.&fontSize=36&fontColor=ffffff)
 </div>
-<img align='right' src='https://camo.githubusercontent.com/202a1441e783d5761d30cd1fd3765be32a05f97374e2dd8117b6543211b6d64e/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e6665564a6e6b4332554a71635a315f6a4f4f49797341486150553f72733d31267069643d496d674465744d61696e' width='400px'>
+<img align='right' src='https://camo.githubusercontent.com/202a1441e783d5761d30cd1fd3765be32a05f97374e2dd8117b6543211b6d64e/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e6665564a6e6b4332554a71635a315f6a4f4f49797341486150553f72733d31267069643d496d674465744d61696e' width='300px'>
 <p align="center">
   <br/><br/>
   <img src="https://th.bing.com/th/id/R.113bd96c6751c47e921c3b63e4ca6a37?rik=hSzVyATzhjneXA&pid=ImgRaw&r=0" width="450px"/>
